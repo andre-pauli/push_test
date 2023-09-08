@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "327131752356",
+    "project_id": "test-push-pk",
+    "storage_bucket": "test-push-pk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327131752356:android:7a20b2cc1271f44a204331",
+        "android_client_info": {
+          "package_name": "com.pauli.test_push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327131752356-0c3en1jhpv2d5eg95i12rgpuibh2pqhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkDMpOpZ6PlAQl4vWdbufUIjFepVYP7LM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327131752356-0c3en1jhpv2d5eg95i12rgpuibh2pqhq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
